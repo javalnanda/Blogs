@@ -5,7 +5,7 @@ seoDescription: "Adding syntactic sugar to write concise code"
 datePublished: Tue Feb 06 2024 09:27:51 GMT+0000 (Coordinated Universal Time)
 cuid: clsa5r0r400020al009bkeesb
 slug: mastering-conciseness-the-art-of-syntactic-sugar-in-code
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707211539388/1c9be39c-7b3f-435f-a4e4-7cac4ff34e0a.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707211750252/51bb8ed7-6bed-4e90-a681-762254124a37.png
 tags: software-development, swift, ios, mobile-development, clean-code, swiftui, programming-tips
 
 ---
