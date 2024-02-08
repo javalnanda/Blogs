@@ -5,6 +5,7 @@ seoDescription: "Which approach to use when customising SwiftUI View?"
 datePublished: Thu Feb 08 2024 15:28:37 GMT+0000 (Coordinated Universal Time)
 cuid: clsddio5x000308jqc1521ey6
 slug: swiftui-view-extensions-vs-viewmodifier-vs-custom-views
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707413885270/d6bf7bc6-cf4a-4a99-bf3d-4b00d8854c36.png
 tags: swift, ios, mobile-development, swiftui
 
 ---
